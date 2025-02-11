@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "picoCTF/01 - General Skills/01 Lest Warm Up.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -180,9 +180,10 @@
   },
   "active": "a523285f04193d71",
   "lastOpenFiles": [
-    "README.md",
     "Plantilla.md",
+    "README.md",
     "picoCTF/01 - General Skills/01 Lest Warm Up.md",
+    "Sin nombre",
     "picoCTF/Sin título.md",
     "picoCTF/01 - General Skills",
     "picoCTF"
