@@ -1,5 +1,8 @@
-# Reto
+%% ↑ Título del problema ↑ %%
 ## Descripción
-## Solución
+
+## Solución n
+
 ## Notas adicionales
+
 ## Referencias
