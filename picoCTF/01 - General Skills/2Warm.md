@@ -9,7 +9,7 @@ Usando la calculadora del sistema operativo
 picoCTF{00101010}
 ```
 ## Solución 2
-Usando el convertor de REPOSTSEO 
+Usando el convertor de prepostseo 
 - Se selecciona la herramienta Binary Translator y se selecciona el tipo de conversión
 ```
 Decimal -> Binary
