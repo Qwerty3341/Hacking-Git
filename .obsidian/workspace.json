@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/01 - General Skills/First Grep.md",
+                "file": "picoCTF/01 - General Skills/Obedient Cat.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "First Grep"
+              "title": "Obedient Cat"
             }
           }
         ]
@@ -165,16 +165,16 @@
   },
   "active": "67a76a4f0165ab9b",
   "lastOpenFiles": [
+    "picoCTF/01 - General Skills/First Grep.md",
+    "picoCTF/01 - General Skills/Bases.md",
+    "Plantilla.md",
+    "picoCTF/01 - General Skills/Obedient Cat.md",
     "img",
     "img/Pasted image 20250212180916.png",
-    "picoCTF/01 - General Skills/Bases.md",
     "picoCTF/01 - General Skills/Warmed Up.md",
-    "Plantilla.md",
-    "picoCTF/01 - General Skills/First Grep.md",
     "picoCTF/01 - General Skills/01 Lest Warm Up.md",
     "picoCTF/01 - General Skills/2Warm.md",
     "README.md",
-    "picoCTF/Sin título.md",
     "picoCTF/01 - General Skills",
     "picoCTF"
   ]
