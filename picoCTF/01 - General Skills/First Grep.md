@@ -1,5 +1,5 @@
 ## Descripción
-
+Can you find the flag in file? This would be really tedious to look through manually, something tells me there is a better way.
 ## Solución 1
 Usando el comando egrep para ver considencias de texto en el archivo
 - Se usa egrep para encontrar el patrón de caracteres 'picoCTF{' ya que en la descripción del problema se menciona que la bandera está en una parte del texto
