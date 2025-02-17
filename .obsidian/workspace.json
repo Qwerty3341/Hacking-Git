@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/01 - General Skills/plumbing.md",
-                "mode": "preview",
+                "file": "picoCTF/02 - General Skills/First Find.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "plumbing"
+              "title": "First Find"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/02 - General Skills/Big Zip.md",
+                "file": "Plantilla.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Big Zip"
+              "title": "Plantilla"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,9 +177,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "f80aaf9108c34085",
+  "active": "bf9c8484f509e99d",
   "lastOpenFiles": [
     "Plantilla.md",
+    "picoCTF/02 - General Skills/First Find.md",
     "picoCTF/02 - General Skills/Big Zip.md",
     "picoCTF/01 - General Skills/plumbing.md",
     "picoCTF/02 - General Skills",
