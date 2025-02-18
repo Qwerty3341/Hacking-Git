@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/02 - General Skills/Magikarp Ground Mission.md",
+                "file": "picoCTF/02 - General Skills/Static ain't always noise.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Magikarp Ground Mission"
+              "title": "Static ain't always noise"
             }
           },
           {
@@ -180,6 +180,7 @@
   "active": "bf9c8484f509e99d",
   "lastOpenFiles": [
     "Plantilla.md",
+    "picoCTF/02 - General Skills/Static ain't always noise.md",
     "picoCTF/02 - General Skills/Magikarp Ground Mission.md",
     "picoCTF/02 - General Skills/repetitions.md",
     "picoCTF/02 - General Skills/First Find.md",
