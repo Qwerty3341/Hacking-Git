@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/02 - General Skills/strings it.md",
-                "mode": "source",
+                "file": "picoCTF/02 - General Skills/Tab, Tab, Attack.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "strings it"
+              "title": "Tab, Tab, Attack"
             }
           },
           {
@@ -179,9 +179,11 @@
   },
   "active": "bf9c8484f509e99d",
   "lastOpenFiles": [
-    "picoCTF/02 - General Skills/Static ain't always noise.md",
     "picoCTF/02 - General Skills/strings it.md",
     "Plantilla.md",
+    "picoCTF/02 - General Skills/Sin título.md",
+    "picoCTF/02 - General Skills/Tab, Tab, Attack.md",
+    "picoCTF/02 - General Skills/Static ain't always noise.md",
     "picoCTF/02 - General Skills/Magikarp Ground Mission.md",
     "picoCTF/02 - General Skills/repetitions.md",
     "picoCTF/02 - General Skills/First Find.md",
