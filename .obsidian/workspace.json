@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/03 - General Skills/Tarea 1/Permissions.md",
+                "file": "picoCTF/03 - General Skills/Tarea 1/Special.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Permissions"
+              "title": "Special"
             }
           },
           {
@@ -180,6 +180,9 @@
   "active": "b461e81d1f9fd7bd",
   "lastOpenFiles": [
     "Plantilla.md",
+    "picoCTF/03 - General Skills/Tarea 1/Special.md",
+    "picoCTF/03 - General Skills/Tarea 1/Chrono.md",
+    "picoCTF/01 - General Skills/Nice netcat.....md",
     "picoCTF/03 - General Skills/Tarea 1/Permissions.md",
     "picoCTF/03 - General Skills/Actividad 6",
     "picoCTF/03 - General Skills/Tarea 1",
@@ -203,7 +206,6 @@
     "picoCTF/01 - General Skills/Lest Warm Up.md",
     "picoCTF/01 - General Skills/2Warm.md",
     "picoCTF/01 - General Skills/What's a net cat.md",
-    "picoCTF/01 - General Skills/Nice netcat.....md",
     "img/Pasted image 20250212195542.png",
     "img/Pasted image 20250212193634.png",
     "picoCTF/01 - General Skills/Bases.md",

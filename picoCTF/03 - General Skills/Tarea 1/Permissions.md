@@ -38,4 +38,3 @@ Para usar ==vi== se deben usar comandos para moverse por la interfaz
 ## Referencias
 - https://www.redhat.com/en/blog/introduction-vi-editor
 - https://aprenderlinux.org/como-usar-el-editor-vi-en-linux-con-ejemplos/#google_vignette
-- 
