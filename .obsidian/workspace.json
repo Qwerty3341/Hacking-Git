@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/03 - General Skills/Tarea 1/ASCII Numbers.md",
-                "mode": "preview",
+                "file": "picoCTF/03 - General Skills/Tarea 1/Chrono.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ASCII Numbers"
+              "title": "Chrono"
             }
           },
           {
@@ -179,18 +179,19 @@
   },
   "active": "b461e81d1f9fd7bd",
   "lastOpenFiles": [
-    "picoCTF/01 - General Skills/Warmed Up.md",
-    "picoCTF/03 - General Skills/Tarea 1/ASCII Numbers.md",
-    "picoCTF/01 - General Skills/2Warm.md",
-    "picoCTF/01 - General Skills/Bases.md",
-    "Plantilla.md",
+    "picoCTF/03 - General Skills/Tarea 1/Permissions.md",
     "picoCTF/03 - General Skills/Tarea 1/Special.md",
     "picoCTF/03 - General Skills/Tarea 1/Chrono.md",
+    "picoCTF/03 - General Skills/Tarea 1/Binhexa.md",
+    "Plantilla.md",
+    "picoCTF/03 - General Skills/Tarea 1/ASCII Numbers.md",
+    "picoCTF/01 - General Skills/Warmed Up.md",
+    "picoCTF/01 - General Skills/2Warm.md",
+    "picoCTF/01 - General Skills/Bases.md",
     "picoCTF/02 - General Skills/First Find.md",
     "picoCTF/02 - General Skills/Magikarp Ground Mission.md",
     "picoCTF/02 - General Skills/repetitions.md",
     "picoCTF/02 - General Skills/strings it.md",
-    "picoCTF/03 - General Skills/Tarea 1/Permissions.md",
     "picoCTF/01 - General Skills/Nice netcat.....md",
     "picoCTF/03 - General Skills/Actividad 6",
     "picoCTF/03 - General Skills/Tarea 1",
@@ -212,7 +213,6 @@
     "img/Pasted image 20250212193634.png",
     "img",
     "img/Pasted image 20250212180916.png",
-    "README.md",
     "picoCTF/01 - General Skills",
     "picoCTF"
   ]
