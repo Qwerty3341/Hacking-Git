@@ -3,7 +3,7 @@
 
 ## Solución n
 
-```shell
+```
 
 ```
 ## Notas adicionales

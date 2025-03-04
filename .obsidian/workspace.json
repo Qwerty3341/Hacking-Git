@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "picoCTF/03 - General Skills/Tarea 1/Chrono.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -35,7 +35,8 @@
               "title": "Plantilla"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,11 +178,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "b461e81d1f9fd7bd",
+  "active": "bc50d54a105ed359",
   "lastOpenFiles": [
+    "picoCTF/03 - General Skills/Tarea 1/Chrono.md",
     "picoCTF/03 - General Skills/Tarea 1/Permissions.md",
     "picoCTF/03 - General Skills/Tarea 1/Special.md",
-    "picoCTF/03 - General Skills/Tarea 1/Chrono.md",
     "picoCTF/03 - General Skills/Tarea 1/Binhexa.md",
     "Plantilla.md",
     "picoCTF/03 - General Skills/Tarea 1/ASCII Numbers.md",
