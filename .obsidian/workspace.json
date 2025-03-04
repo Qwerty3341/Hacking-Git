@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/03 - General Skills/Tarea 1/Binary search.md",
+                "file": "picoCTF/03 - General Skills/Tarea 1/Collaborative development.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Binary search"
+              "title": "Collaborative development"
             }
           },
           {
@@ -179,6 +179,9 @@
   },
   "active": "bc50d54a105ed359",
   "lastOpenFiles": [
+    "Comandos de git.md",
+    "ComandosDeGit.txt",
+    "picoCTF/03 - General Skills/Tarea 1/Collaborative development.md",
     "Plantilla.md",
     "picoCTF/03 - General Skills/Tarea 1/Binary search.md",
     "picoCTF/03 - General Skills/Tarea 1/Chrono.md",
@@ -205,10 +208,7 @@
     "picoCTF/02 - General Skills/Based.md",
     "picoCTF/02 - General Skills/Wave a flag.md",
     "picoCTF/02 - General Skills/Big Zip.md",
-    "picoCTF/01 - General Skills/plumbing.md",
     "picoCTF/02 - General Skills",
-    "picoCTF/01 - General Skills/First Grep.md",
-    "picoCTF/01 - General Skills/Lest Warm Up.md",
     "img/Pasted image 20250212195542.png",
     "img/Pasted image 20250212193634.png",
     "img",
