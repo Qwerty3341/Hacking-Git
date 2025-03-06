@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/03 - General Skills/Actividad 6/Super SSH.md",
-                "mode": "source",
+                "file": "picoCTF/03 - General Skills/Actividad 6/Runme.py.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Super SSH"
+              "title": "Runme.py"
             }
           },
           {
@@ -180,6 +180,7 @@
   "active": "66c8c388c00ee454",
   "lastOpenFiles": [
     "Plantilla.md",
+    "picoCTF/03 - General Skills/Actividad 6/Runme.py.md",
     "picoCTF/03 - General Skills/Actividad 6/Super SSH.md",
     "picoCTF/03 - General Skills/Tarea 1/Commitment Issues.md",
     "Comandos de git.md",
@@ -208,7 +209,6 @@
     "picoCTF/02 - General Skills/Static ain't always noise.md",
     "picoCTF/02 - General Skills/Tab, Tab, Attack.md",
     "picoCTF/01 - General Skills/Glitch Cat.md",
-    "picoCTF/01 - General Skills/Obedient Cat.md",
     "picoCTF/02 - General Skills",
     "img/Pasted image 20250212195542.png",
     "img/Pasted image 20250212193634.png",
