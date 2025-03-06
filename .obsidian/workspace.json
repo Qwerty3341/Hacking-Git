@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/03 - General Skills/Actividad 6/Fixme1.py.md",
+                "file": "picoCTF/03 - General Skills/Actividad 6/Fixme2.py.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fixme1.py"
+              "title": "Fixme2.py"
             }
           },
           {
@@ -180,6 +180,7 @@
   "active": "66c8c388c00ee454",
   "lastOpenFiles": [
     "Plantilla.md",
+    "picoCTF/03 - General Skills/Actividad 6/Fixme2.py.md",
     "picoCTF/03 - General Skills/Actividad 6/Fixme1.py.md",
     "picoCTF/03 - General Skills/Actividad 6/Convertme.py.md",
     "Pasted image 20250305193216.png",
@@ -211,7 +212,6 @@
     "picoCTF/03 - General Skills/Actividad 6",
     "picoCTF/03 - General Skills/Tarea 1",
     "picoCTF/03 - General Skills",
-    "picoCTF/02 - General Skills/Useless.md",
     "picoCTF/02 - General Skills",
     "img/Pasted image 20250212195542.png",
     "img/Pasted image 20250212193634.png",
