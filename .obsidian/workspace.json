@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/03 - General Skills/Actividad 6/PW Crack 3.md",
+                "file": "picoCTF/03 - General Skills/Actividad 6/Serpentine.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PW Crack 3"
+              "title": "Serpentine"
             }
           },
           {
@@ -179,21 +179,23 @@
   },
   "active": "66c8c388c00ee454",
   "lastOpenFiles": [
+    "picoCTF/03 - General Skills/Actividad 6/Super SSH.md",
+    "Comandos de git.md",
+    "Plantilla.md",
+    "README.md",
+    "picoCTF/03 - General Skills/Actividad 6/Serpentine.md",
+    "picoCTF/03 - General Skills/Actividad 6/Codebook.md",
+    "picoCTF/03 - General Skills/Actividad 6/Convertme.py.md",
+    "picoCTF/03 - General Skills/Actividad 6/Fixme1.py.md",
+    "picoCTF/03 - General Skills/Actividad 6/PW Crack 1.md",
     "picoCTF/03 - General Skills/Actividad 6/PW Crack 2.md",
     "picoCTF/03 - General Skills/Actividad 6/PW Crack 3.md",
-    "Plantilla.md",
-    "picoCTF/03 - General Skills/Actividad 6/PW Crack 1.md",
+    "picoCTF/03 - General Skills/Actividad 6/Runme.py.md",
     "picoCTF/03 - General Skills/Actividad 6/Fixme2.py.md",
-    "picoCTF/03 - General Skills/Actividad 6/Fixme1.py.md",
-    "picoCTF/03 - General Skills/Actividad 6/Convertme.py.md",
     "Pasted image 20250305193216.png",
     "img/33aBinario.png",
     "Pasted image 20250305192306.png",
-    "picoCTF/03 - General Skills/Actividad 6/Codebook.md",
-    "picoCTF/03 - General Skills/Actividad 6/Runme.py.md",
-    "picoCTF/03 - General Skills/Actividad 6/Super SSH.md",
     "picoCTF/03 - General Skills/Tarea 1/Commitment Issues.md",
-    "Comandos de git.md",
     "picoCTF/03 - General Skills/Tarea 1/Time Machine.md",
     "picoCTF/03 - General Skills/Tarea 1/Collaborative development.md",
     "picoCTF/03 - General Skills/Tarea 1/Binary search.md",
@@ -207,8 +209,6 @@
     "picoCTF/01 - General Skills/Warmed Up.md",
     "picoCTF/01 - General Skills/2Warm.md",
     "picoCTF/01 - General Skills/Bases.md",
-    "picoCTF/02 - General Skills/First Find.md",
-    "picoCTF/02 - General Skills/Magikarp Ground Mission.md",
     "picoCTF/03 - General Skills/Actividad 6",
     "picoCTF/03 - General Skills/Tarea 1",
     "picoCTF/03 - General Skills",
