@@ -4,35 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ad043ffd44427252",
+        "id": "5feb52df0fbc8436",
         "type": "tabs",
         "children": [
           {
-            "id": "66c8c388c00ee454",
+            "id": "541eba2973d1dbe8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/03 - General Skills/Actividad 6/Serpentine.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Serpentine"
-            }
-          },
-          {
-            "id": "eacb408b3f88ec42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Plantilla.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Plantilla"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -177,38 +159,40 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "66c8c388c00ee454",
+  "active": "541eba2973d1dbe8",
   "lastOpenFiles": [
+    "picoCTF/02 - General Skills/Big Zip.md",
+    "Comandos de Vim.md",
+    "picoCTF/02 - General Skills/Based.md",
+    "picoCTF/01 - General Skills/What's a net cat.md",
+    "picoCTF/01 - General Skills/Warmed Up.md",
+    "picoCTF/01 - General Skills/plumbing.md",
+    "picoCTF/01 - General Skills/Obedient Cat.md",
+    "picoCTF/01 - General Skills/Nice netcat.....md",
+    "picoCTF/01 - General Skills/Lest Warm Up.md",
+    "picoCTF/01 - General Skills/Glitch Cat.md",
+    "picoCTF/01 - General Skills/First Grep.md",
+    "picoCTF/01 - General Skills/Bases.md",
+    "picoCTF/01 - General Skills/2Warm.md",
+    "picoCTF/Concurso 2025/Cookie Monster Secret Recipe.md",
+    "picoCTF/Concurso 2025/Chalkboard.md",
+    "img/BanderaArmada.png",
+    "Plantilla.md",
+    "picoCTF/Concurso 2025/FANTASY CTF.md",
+    "picoCTF/Concurso 2025",
+    "picoCTF/03 - General Skills/Actividad 6/Serpentine.md",
     "picoCTF/03 - General Skills/Actividad 6/Super SSH.md",
     "Comandos de git.md",
-    "Plantilla.md",
     "README.md",
-    "picoCTF/03 - General Skills/Actividad 6/Serpentine.md",
     "picoCTF/03 - General Skills/Actividad 6/Codebook.md",
     "picoCTF/03 - General Skills/Actividad 6/Convertme.py.md",
     "picoCTF/03 - General Skills/Actividad 6/Fixme1.py.md",
     "picoCTF/03 - General Skills/Actividad 6/PW Crack 1.md",
     "picoCTF/03 - General Skills/Actividad 6/PW Crack 2.md",
-    "picoCTF/03 - General Skills/Actividad 6/PW Crack 3.md",
-    "picoCTF/03 - General Skills/Actividad 6/Runme.py.md",
-    "picoCTF/03 - General Skills/Actividad 6/Fixme2.py.md",
     "Pasted image 20250305193216.png",
     "img/33aBinario.png",
     "Pasted image 20250305192306.png",
-    "picoCTF/03 - General Skills/Tarea 1/Commitment Issues.md",
-    "picoCTF/03 - General Skills/Tarea 1/Time Machine.md",
-    "picoCTF/03 - General Skills/Tarea 1/Collaborative development.md",
-    "picoCTF/03 - General Skills/Tarea 1/Binary search.md",
-    "picoCTF/03 - General Skills/Tarea 1/Special.md",
-    "picoCTF/03 - General Skills/Tarea 1/Permissions.md",
-    "picoCTF/03 - General Skills/Tarea 1/Blame Game.md",
     "ComandosDeGit.txt",
-    "picoCTF/03 - General Skills/Tarea 1/Chrono.md",
-    "picoCTF/03 - General Skills/Tarea 1/Binhexa.md",
-    "picoCTF/03 - General Skills/Tarea 1/ASCII Numbers.md",
-    "picoCTF/01 - General Skills/Warmed Up.md",
-    "picoCTF/01 - General Skills/2Warm.md",
-    "picoCTF/01 - General Skills/Bases.md",
     "picoCTF/03 - General Skills/Actividad 6",
     "picoCTF/03 - General Skills/Tarea 1",
     "picoCTF/03 - General Skills",
