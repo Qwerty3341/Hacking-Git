@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Web 2/Scavenger Hunt.md",
+                "file": "picoCTF/Concurso 2025/Chalkboard.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Scavenger Hunt"
+              "title": "Chalkboard"
             }
           },
           {
@@ -179,11 +179,13 @@
   },
   "active": "3bea7b7fd71672e5",
   "lastOpenFiles": [
+    "Plantilla.md",
+    "picoCTF/Concurso 2025/Chalkboard.md",
+    "picoCTF/Concurso 2025/FANTASY CTF.md",
+    "picoCTF/Web 2/Scavenger Hunt.md",
     "picoCTF/Web 2/Cookies.md",
     "picoCTF/Web 2/GET aHEAD.md",
-    "picoCTF/Web 2/Scavenger Hunt.md",
     "img/galleta.png",
-    "Plantilla.md",
     "img/PasosGetAHead/paso5.png",
     "img/PasosGetAHead/paso3.png",
     "img/PasosGetAHead/paso4.png",
@@ -201,8 +203,6 @@
     "picoCTF/Web 1",
     "picoCTF/03 - General Skills/Tarea 1/Commitment Issues.md",
     "Comandos de Vim.md",
-    "picoCTF/Concurso 2025/FANTASY CTF.md",
-    "picoCTF/Concurso 2025/Chalkboard.md",
     "picoCTF/Concurso 2025/Cookie Monster Secret Recipe.md",
     "picoCTF/02 - General Skills/Big Zip.md",
     "picoCTF/02 - General Skills/Based.md",

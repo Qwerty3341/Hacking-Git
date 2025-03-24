@@ -10,5 +10,4 @@ C) *Register a single, private account*
 ```
 Al elegir una nos dan más instrucciones hasta que después de elegir varias opciones podemos obtener la bandera: `picoCTF{m1113n1um_3d1710n_e41acbee}`
 ## Notas adicionales
-
 ## Referencias
