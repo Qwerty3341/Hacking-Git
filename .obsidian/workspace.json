@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Examen 1/General Skills/Python Wrangling.md",
+                "file": "picoCTF/Examen 1/General Skills/SansAlpha.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Python Wrangling"
+              "title": "SansAlpha"
             }
           },
           {
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bienvenido.md",
+                "file": "picoCTF/Examen 1/General Skills/flag_shop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Bienvenido"
+              "title": "Enlaces entrantes de flag_shop"
             }
           },
           {
@@ -179,10 +179,22 @@
   },
   "active": "4b94252587d89bd3",
   "lastOpenFiles": [
-    "Plantilla.md",
-    "picoCTF/Examen 1/General Skills/Python Wrangling.md",
-    "picoCTF/Examen 1/General Skills/FANTASY CTF.md",
+    "picoCTF/Examen 1/General Skills/Specialer.md",
     "picoCTF/Examen 1/General Skills/HashingJobApp.md",
+    "picoCTF/Examen 1/General Skills/SansAlpha.md",
+    "Plantilla.md",
+    "picoCTF/Examen 1/General Skills/flag_shop.md",
+    "picoCTF/Examen 1/General Skills/dont-you-love-banners.md",
+    "picoCTF/Examen 1/General Skills/FANTASY CTF.md",
+    "picoCTF/Web 3/JaWT Scratchpad.md",
+    "Pasted image 20250411180234.png",
+    "picoCTF/Web 3/Irish-Name-Repo 1.md",
+    "picoCTF/Web 3/More SQLi.md",
+    "picoCTF/Web 2/Scavenger Hunt.md",
+    "picoCTF/Examen 1/General Skills/Rust fixme 3.md",
+    "picoCTF/Examen 1/General Skills/Rust fixme 1.md",
+    "picoCTF/Examen 1/General Skills/Rust fixme 2.md",
+    "picoCTF/Examen 1/General Skills/Python Wrangling.md",
     "picoCTF/Examen 1/Web/Sin título 9.md",
     "picoCTF/Examen 1/Web/Sin título 8.md",
     "picoCTF/Examen 1/Web/Sin título 7.md",
@@ -193,18 +205,9 @@
     "picoCTF/Examen 1/Web/Sin título 2.md",
     "picoCTF/Examen 1/Web/Sin título 1.md",
     "picoCTF/Examen 1/Web/Sin título.md",
-    "picoCTF/Examen 1/General Skills/Sin título 9.md",
-    "picoCTF/Examen 1/General Skills/Sin título 8.md",
-    "picoCTF/Examen 1/General Skills/Sin título 7.md",
-    "picoCTF/Examen 1/General Skills/Sin título 6.md",
-    "picoCTF/Examen 1/General Skills/Sin título 5.md",
-    "picoCTF/Examen 1/General Skills/Sin título 4.md",
-    "picoCTF/Examen 1/General Skills/Sin título 3.md",
-    "picoCTF/Forensic 2/shark on wire 2.md",
     "picoCTF/Examen 1/Web",
     "picoCTF/Examen 1/General Skills",
     "picoCTF/Examen 1",
-    "picoCTF/Forensic 2/c0rrupt.md",
     "img/Forensic2_img/Pasted image 20250407172458.png",
     "img/Forensic2_img/Pasted image 20250407172423.png",
     "img/Forensic2_img/Pasted image 20250407172253.png",
@@ -216,10 +219,6 @@
     "img/Forensic2_img/png in hex.png",
     "img/Forensic2_img",
     "img/web3_img/Sin nombre",
-    "picoCTF/Forensic 2/WhitePages.md",
-    "img/img-p1-wp.png",
-    "picoCTF/Forensic 1/What Lies Within.md",
-    "picoCTF/Forensic 2/like1000.md",
     "picoCTF/Forensic 2",
     "img/forensic_1_img",
     "picoCTF/Forensic 1",
