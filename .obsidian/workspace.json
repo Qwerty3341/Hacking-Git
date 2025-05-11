@@ -8,35 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6a56b7ec531dc704",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/Forensic 3/WebNet0.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "WebNet0"
-            }
-          },
-          {
-            "id": "e30a1e352d34858f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/Forensic 3/MacroHard WeakEdge.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MacroHard WeakEdge"
-            }
-          },
-          {
             "id": "d94fbbde0d89de75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/Forensic 4/Operation Oni.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Operation Oni"
+            }
+          },
+          {
+            "id": "b59012b43921460a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -49,8 +35,7 @@
               "title": "Plantilla"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,16 +177,23 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "e30a1e352d34858f",
+  "active": "d94fbbde0d89de75",
   "lastOpenFiles": [
+    "picoCTF/Forensic 4/Operation Orchid.md",
+    "picoCTF/Forensic 4/Operation Oni.md",
+    "picoCTF/Forensic 4/Sleuthkit Apprentice.md",
+    "picoCTF/Forensic 4/Sleuthkit Intro.md",
+    "picoCTF/Forensic 4/Disk, disk, sleuth!.md",
+    "picoCTF/Forensic 4/Milkslap.md",
+    "Plantilla.md",
+    "picoCTF/Forensic 3/WebNet0.md",
+    "picoCTF/Forensic 3/MacroHard WeakEdge.md",
+    "picoCTF/Forensic 4",
     "picoCTF/Forensic 3/Matryoshka doll.md",
     "picoCTF/Forensic 3/tunn3l v1s10n.md",
-    "picoCTF/Forensic 3/WebNet0.md",
     "picoCTF/Forensic 3/Webnet1.md",
     "img/Forensic3_img/Pasted image 20250429163858.png",
-    "Plantilla.md",
     "img/Forensic3_img",
-    "picoCTF/Forensic 3/MacroHard WeakEdge.md",
     "picoCTF/Forensic 3",
     "picoCTF/Examen 1/Web/Java Code Analysis.md",
     "picoCTF/Examen 1/Web/SSTI2.md",
@@ -217,12 +209,7 @@
     "picoCTF/Examen 1/General Skills/Specialer.md",
     "picoCTF/Examen 1/General Skills/HashingJobApp.md",
     "picoCTF/Examen 1/General Skills/flag_shop.md",
-    "picoCTF/Examen 1/General Skills/dont-you-love-banners.md",
-    "picoCTF/Examen 1/General Skills/FANTASY CTF.md",
-    "picoCTF/Web 3/JaWT Scratchpad.md",
     "Pasted image 20250411180234.png",
-    "picoCTF/Web 3/Irish-Name-Repo 1.md",
-    "picoCTF/Web 3/More SQLi.md",
     "picoCTF/Examen 1/Web",
     "picoCTF/Examen 1/General Skills",
     "picoCTF/Examen 1",
@@ -237,7 +224,6 @@
     "img/Forensic2_img",
     "img/web3_img/Sin nombre",
     "picoCTF/Forensic 2",
-    "img/forensic_1_img",
-    "picoCTF/Forensic 1"
+    "img/forensic_1_img"
   ]
 }
