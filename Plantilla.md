@@ -1,6 +1,6 @@
 ## Descripción
 
-## Solución n
+## Solución
 
 ```
 
