@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Crypto 1/waves over lambda.md",
+                "file": "picoCTF/Crypto 2/rsa pop quiz.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "waves over lambda"
+              "title": "rsa pop quiz"
             }
           },
           {
@@ -179,15 +179,17 @@
   },
   "active": "df6ef950e3b4f73f",
   "lastOpenFiles": [
+    "Plantilla.md",
+    "picoCTF/Crypto 2/rsa pop quiz.md",
+    "picoCTF/Crypto 1/waves over lambda.md",
+    "picoCTF/Crypto 2",
     "picoCTF/Crypto 1/Tapping.md",
     "picoCTF/Crypto 1/la cifra de.md",
-    "Plantilla.md",
     "picoCTF/Crypto 1/interencdec.md",
     "picoCTF/Crypto 1/Easy 1.md",
     "picoCTF/Crypto 1/13.md",
     "picoCTF/Crypto 1/caesar.md",
     "picoCTF/Crypto 1/The numbers.md",
-    "picoCTF/Crypto 1/waves over lambda.md",
     "picoCTF/01 - General Skills/Lest Warm Up.md",
     "picoCTF/01 - General Skills/Glitch Cat.md",
     "picoCTF/01 - General Skills/Bases.md",
@@ -210,7 +212,6 @@
     "picoCTF/Forensic 3/WebNet0.md",
     "picoCTF/Forensic 3/tunn3l v1s10n.md",
     "picoCTF/Forensic 3/Matryoshka doll.md",
-    "picoCTF/Forensic 3/MacroHard WeakEdge.md",
     "img/Pasted image 20250511172833.png",
     "picoCTF/Tarea 3 - Forensic",
     "picoCTF/Forensic 4",
@@ -223,7 +224,6 @@
     "picoCTF/Examen 1",
     "img/Forensic2_img/Pasted image 20250407172458.png",
     "img/Forensic2_img/Pasted image 20250407172423.png",
-    "img/Forensic2_img/Pasted image 20250407172253.png",
-    "img/Forensic2_img"
+    "img/Forensic2_img/Pasted image 20250407172253.png"
   ]
 }
